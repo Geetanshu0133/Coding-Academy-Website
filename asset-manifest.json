@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Coding-Academy-Website/static/css/main.c9635be6.chunk.css",
+    "main.js": "/Coding-Academy-Website/static/js/main.d1dbed33.chunk.js",
+    "main.js.map": "/Coding-Academy-Website/static/js/main.d1dbed33.chunk.js.map",
+    "runtime-main.js": "/Coding-Academy-Website/static/js/runtime-main.71053970.js",
+    "runtime-main.js.map": "/Coding-Academy-Website/static/js/runtime-main.71053970.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Coding-Academy-Website/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.358aef24.chunk.js": "/Coding-Academy-Website/static/js/2.358aef24.chunk.js",
+    "static/js/2.358aef24.chunk.js.map": "/Coding-Academy-Website/static/js/2.358aef24.chunk.js.map",
+    "index.html": "/Coding-Academy-Website/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Coding-Academy-Website/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c9635be6.chunk.css.map": "/Coding-Academy-Website/static/css/main.c9635be6.chunk.css.map",
+    "static/js/2.358aef24.chunk.js.LICENSE.txt": "/Coding-Academy-Website/static/js/2.358aef24.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/Coding-Academy-Website/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/Coding-Academy-Website/static/media/app.8714f365.jpeg",
+    "static/media/hero-img.53f1b546.png": "/Coding-Academy-Website/static/media/hero-img.53f1b546.png",
+    "static/media/img1.7b743bf7.png": "/Coding-Academy-Website/static/media/img1.7b743bf7.png",
+    "static/media/img2.d12e2a27.svg": "/Coding-Academy-Website/static/media/img2.d12e2a27.svg",
+    "static/media/s1.8e51e67d.jpg": "/Coding-Academy-Website/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/Coding-Academy-Website/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71053970.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.358aef24.chunk.js",
+    "static/css/main.c9635be6.chunk.css",
+    "static/js/main.d1dbed33.chunk.js"
+  ]
+}
